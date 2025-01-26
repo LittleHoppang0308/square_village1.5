@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2859,
                 "MD5": "9396d9d25bc9289f4a4db648ffb7cafc",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/versions/1.20.1-fabric-0.16.10/1.20.1-fabric-0.16.10.json"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/versions/1.20.1-fabric-0.16.10/1.20.1-fabric-0.16.10.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2187067,
-            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/servers/square_village1.5-1.20.1/fabricmods/required/fabric-api-0.97.0+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/fabric-api-0.97.0+1.20.4.jar",
             "MD5": "0f6ca3c5ba9bf050c2ae09203cb7438c"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36420,
-            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/servers/square_village1.5-1.20.1/fabricmods/required/koreanpatch-1.3.5-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/koreanpatch-1.3.5-1.20.4.jar",
             "MD5": "47e5018c2f6702d67122ae464242461c"
           }
         }
