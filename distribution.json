@@ -116,23 +116,43 @@
           ]
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.97.0+1.20.4@jar",
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2187067,
-            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/fabric-api-0.97.0+1.20.4.jar",
-            "MD5": "0f6ca3c5ba9bf050c2ae09203cb7438c"
+            "size": 2107289,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
           }
         },
         {
-          "id": "com.hyfata.najoan:koreanpatch:1.3.5-1.20.4@jar",
-          "name": "Korean Patch",
+          "id": "mezz.jei:jei:15.3.0.7@jar",
+          "name": "Just Enough Items",
           "type": "FabricMod",
           "artifact": {
-            "size": 36420,
-            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/koreanpatch-1.3.5-1.20.4.jar",
-            "MD5": "47e5018c2f6702d67122ae464242461c"
+            "size": 1152396,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.3.0.7.jar",
+            "MD5": "ff5dfb5f77cd3df6521fde76966a588d"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.2@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7209178,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.2-fabric.jar",
+            "MD5": "8c157f25896ddf85396d7963064c4a2c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:caramelchat:1.1.1@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 130062,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/koreanpatch-1.3.1-1.20.1.jar",
+            "MD5": "7a52a4adae1c669ae869b53dd49ab615"
           }
         }
       ]
