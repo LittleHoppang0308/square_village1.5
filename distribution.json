@@ -11,7 +11,7 @@
       "id": "square_village1.5-1.20.1",
       "name": "스퀘어빌리지 1.5 (Minecraft 1.20.1)",
       "description": "스퀘어 빌리지 시즌1.5",
-      "icon": null,
+      "icon": https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/images/icon.png,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
