@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.0+kotlin.2.1.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7089756,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+            "MD5": "f6623d8c006095c4e08323f084e6c00e"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.7.5+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -203,6 +213,16 @@
             "size": 8082081,
             "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.26.jar",
             "MD5": "2c9d809c1b1c53863840ee3bce6f73a5"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.2+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1106630,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
+            "MD5": "976f29a1a0754edf18c349cf644f9f78"
           }
         },
         {
