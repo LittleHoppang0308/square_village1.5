@@ -196,6 +196,16 @@
           }
         },
         {
+          "id": "hoppang.square_village_mod_1_5_keyboard_shortcut.mod:square_village_mod_1_5_keyboard_shortcut:1.0-SNAPSHOT@jar",
+          "name": "Square_village_mod_1_5_keyboard_shortcut",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14299,
+            "url": "https://raw.githubusercontent.com/LittleHoppang0308/square_village1.5/refs/heads/main/file/square_village/servers/square_village1.5-1.20.1/fabricmods/required/square_village_mod_1_5_keyboard_shortcut-1.0-SNAPSHOT.jar",
+            "MD5": "2999f897ada42eb0db45aa5569805991"
+          }
+        },
+        {
           "id": "hoppang.square_village_mod_music.mod:square_village_mod_1_5_mainmenu:1.0-SNAPSHOT@jar",
           "name": "Square_village_mod_1.5_mainmenu",
           "type": "FabricMod",
